@@ -2,11 +2,11 @@
 <h2 align="center">Enthusiastic Blockchain Developer | Pakistan</h2>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat-sudozai&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-sudozai" /> </p>
-🔭 I’m passionate about Blockchain Development
-🌟 I have experience in developing Smart Contracts, Decentralized Applications (dApps), and DeFi projects
-🌱 I’m currently mastering Solidity, React.js, JavaScript, Node.js, Hardhat, Ethers.js, and Web3.js
-🤝 I'm open to collaborate on innovative blockchain projects
-📫 Feel free to reach me at: wajahatsudozai1309@gmail.com
+🔭 I’m passionate about Blockchain Development <br>
+🌟 I have experience in developing Smart Contracts, Decentralized Applications (dApps), and DeFi projects <br>
+🌱 I’m currently mastering Solidity, React.js, JavaScript, Node.js, Hardhat, Ethers.js, and Web3.js <br>
+🤝 I'm open to collaborate on innovative blockchain projects <br>
+📫 Feel free to reach me at: wajahatsudozai1309@gmail.com <br>
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wajahat-hussain-376a9321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahat-hussain-376a9321a/" height="30" width="40" /></a>
@@ -26,17 +26,20 @@
 </p>
 <h3 align="left">🔧 Projects:</h3>
 <p align="left">
-1. Decentralized Finance (DeFi) platform
-- Developed a DeFi platform using Solidity, Web3.js, and React.js
+1. Decentralized Finance (DeFi) platform <br>
+- Developed a DeFi platform using Solidity, Web3.js, and React.js <br>
 - Implemented features like staking, liquidity pools, yield farming, and token swaps
-2. Tokenization platform
-- Created an ERC20 and ERC721 tokenization platform using Solidity and Hardhat
-- Built a user-friendly frontend using React.js and Web3.js for managing tokens
-3. NFT marketplace dApp
+               <br>
+2. Tokenization platform <br>
+- Created an ERC20 and ERC721 tokenization platform using Solidity and Hardhat <br>
+- Built a user-friendly frontend using React.js and Web3.js for managing tokens 
+               <br>
+3. NFT marketplace dApp <br>
 - Developed a decentralized NFT marketplace using Solidity Solidity, Web3.js, and React.js for the development of the application
+               <br>
 <h3 align="left">📚 Education:</h3>
 <p align="left">
-- Bachelor of Science in Computer Science (BSc CS)
+- Bachelor of Science in Computer Science (BSc CS)<br>
 - Blockchain Developer Certification
 <h3 align="left">💡 Hobbies & Interests:</h3>
 <p align="left">
@@ -44,22 +47,22 @@
               </p>
 <h3 align="left">🌟 Skills:</h3>
 <p align="left">
-- Solidity
-- Smart Contracts
-- dApp Development
-- React.js
-- Web3.js / Ethers.js
-- Hardhat
-- JavaScript 
-- Node.js
-- Git
+- Solidity<br>
+- Smart Contracts<br>
+- dApp Development<br>
+- React.js<br>
+- Web3.js / Ethers.js<br>
+- Hardhat<br>
+- JavaScript <br>
+- Node.js <br>
+- Git <br>
 <h3 align="left">📜 Certifications:</h3>
 <p align="left">
 - Senior 😎 - Certificate MintKudos
 - Ethereum and Solidity: The Complete Developer's Guide
 <h3 align="left">🔍 Find more about me:</h3>
 <p align="left">
-- GitHub: <a href="https://github.com/wajahat-sudozai" target="_blank">https://github.com/wajahat-sudozai</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/wajahat-hussain-376a9321a/" target="_blank">https://www.linkedin.com/in/wajahat-hussain-376a9321a/</a>
+- GitHub: <a href="https://github.com/wajahat-sudozai" target="_blank">https://github.com/wajahat-sudozai</a><br>
+- LinkedIn: <a href="https://www.linkedin.com/in/wajahat-hussain-376a9321a/" target="_blank">https://www.linkedin.com/in/wajahat-hussain-376a9321a/</a><br>
 - Twitter: <a href="https://twitter.com/WajahtHussain7" target="_blank">https://twitter.com/wajahat_sudozai</a>
 </p>
