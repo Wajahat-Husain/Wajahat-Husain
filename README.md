@@ -58,7 +58,7 @@
 - Git <br>
 <h3 align="left">📜 Certifications:</h3>
 <p align="left">
-- Senior 😎 - Certificate MintKudos
+- Senior 😎 - Certificate MintKudos <br>
 - Ethereum and Solidity: The Complete Developer's Guide
 <h3 align="left">🔍 Find more about me:</h3>
 <p align="left">
