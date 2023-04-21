@@ -22,44 +22,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=wajahat-sudozai&show_icons=true"&theme=radical" alt="wajahat-sudozai" />
-
 </p>
-<h3 align="left">🔧 Projects:</h3>
-<p align="left">
-1. Decentralized Finance (DeFi) platform <br>
-- Developed a DeFi platform using Solidity, Web3.js, and React.js <br>
-- Implemented features like staking, liquidity pools, yield farming, and token swaps
-               <br>
-2. Tokenization platform <br>
-- Created an ERC20 and ERC721 tokenization platform using Solidity and Hardhat <br>
-- Built a user-friendly frontend using React.js and Web3.js for managing tokens 
-               <br>
-3. NFT marketplace dApp <br>
-- Developed a decentralized NFT marketplace using Solidity Solidity, Web3.js, and React.js for the development of the application
-               <br>
-<h3 align="left">📚 Education:</h3>
-<p align="left">
-- Bachelor of Science in Computer Science (BSc CS)<br>
-- Blockchain Developer Certification
-<h3 align="left">💡 Hobbies & Interests:</h3>
-<p align="left">
-- Reading about the latest blockchain trends
-              </p>
-<h3 align="left">🌟 Skills:</h3>
-<p align="left">
-- Solidity<br>
-- Smart Contracts<br>
-- dApp Development<br>
-- React.js<br>
-- Web3.js / Ethers.js<br>
-- Hardhat<br>
-- JavaScript <br>
-- Node.js <br>
-- Git <br>
-<h3 align="left">📜 Certifications:</h3>
-<p align="left">
-- Senior 😎 - Certificate MintKudos <br>
-- Ethereum and Solidity: The Complete Developer's Guide
 <h3 align="left">🔍 Find more about me:</h3>
 <p align="left">
 - GitHub: <a href="https://github.com/wajahat-sudozai" target="_blank">https://github.com/wajahat-sudozai</a><br>
