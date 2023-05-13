@@ -2,30 +2,44 @@
 <h2 align="center">Enthusiastic Blockchain Developer | Pakistan</h2>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat-sudozai&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-sudozai" /> </p>
-🔭 I’m passionate about Blockchain Development <br>
-🌟 I have experience in developing Smart Contracts, Decentralized Applications (dApps), and DeFi projects <br>
-🌱 I’m currently mastering Solidity, React.js, JavaScript, Node.js, Hardhat, Ethers.js, and Web3.js <br>
-🤝 I'm open to collaborate on innovative blockchain projects <br>
-📫 Feel free to reach me at: wajahatsudozai1309@gmail.com <br>
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wajahat-hussain-376a9321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajahat-hussain-376a9321a/" height="30" width="40" /></a>
-</p>
-<h3 align="left">💼 Languages and Tools:</h3>
-<p align="left">
-<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" alt="hardhat" width="100" height="40"/> </a>
-<a href="https://web3js.readthedocs.io/en/v1.8.0/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/web3/web3.js/1.x/assets/logo/web3js.jpg" alt="web3js" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-</p>
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=wajahat-sudozai&show_icons=true"&theme=radical" alt="wajahat-sudozai" />
-</p>
-<h3 align="left">🔍 Find more about me:</h3>
-<p align="left">
-- GitHub: <a href="https://github.com/wajahat-sudozai" target="_blank">https://github.com/wajahat-sudozai</a><br>
-- LinkedIn: <a href="https://www.linkedin.com/in/wajahat-hussain-376a9321a/" target="_blank">https://www.linkedin.com/in/wajahat-hussain-376a9321a/</a><br>
-- Twitter: <a href="https://twitter.com/WajahtHussain7" target="_blank">https://twitter.com/wajahat_sudozai</a>
-</p>
+# 💫 About Me:
+🔭 I’m passionate about Blockchain Development.<br>
+🤝 I'm open to collaborate on innovative blockchain projects.<br>
+🌱 I’m currently mastering Solidity, React.js, JavaScript, Node.js, Hardhat, Ethers.js, and Web3.js.<br>
+🌟 I have experience in developing Smart Contracts, Decentralized Applications (dApps), and DeFi projects.<br>
+📫 Feel free to reach me at: wajahatsudozai1309@gmail.com
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wajahat-hussain-376a9321a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wajahat_sudozai) 
+
+# 💻 Tech Stack:
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Wajahat-Sudozai&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Wajahat-Sudozai&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wajahat-Sudozai&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wajahat-Sudozai&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=wajahat_sudozai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Wajahat-Sudozai&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Wajahat-Sudozai&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
