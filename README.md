@@ -20,13 +20,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wajahat-Husain" alt="Wajahat-Husain"/></a></p>
 <h1 align="center"></h1>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajahat-Husain&" alt="Wajahat-Husain" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wajahat-Husain&show_icons=true&locale=en" alt="sufyan-ahmed-dev" /></p>
-
-<h1 align="center"></h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wajahat-Husain&show_icons=true&locale=en&layout=compact" alt="Wajahat-Husain" /></p>
-<h1 align="center"></h1>
+<h1></h1>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajahat-Husain&" alt="Wajahat-Husain" /></p>
+<h1></h1>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Wajahat-Husain&show_icons=true&locale=en" alt="sufyan-ahmed-dev" /></p>
+<h1></h1>
+
 
 
 ### ✍️ Random Dev Quote
