@@ -7,7 +7,7 @@
 💪 Strong background in <b>microservices, real-time data streaming, and cloud deployment</b>. <br>
 👩🏻‍💻 Passionate about <b>secure, reliable, and production-ready blockchain solutions</b>. <br>
 🤝 Open to collaborations on <b>innovative Web3 & backend projects</b>. <br><br>
-📫 **Email:** wajahatsudozai1309@gmail.com  
+📫 <b>Email:</b> wajahatsudozai1309@gmail.com  
 
 ### 💻 Tech Stack
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
