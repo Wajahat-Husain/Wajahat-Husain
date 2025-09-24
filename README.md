@@ -2,11 +2,11 @@
 <h2 align="center">Software Engineer | Blockchain (Web3) | Backend Developer | Pakistan</h2>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahat-sudozai&label=Profile%20views&color=0e75b6&style=flat" alt="wajahat-sudozai" /> </p>
-💼 Experienced <b>Software Engineer</b> with 3+ years in <b>Blockchain & Backend Development</b> <br>
-🎯 Skilled in building <b>DApps, Smart Contracts, NFT/DeFi Projects, and Scalable APIs</b> <br>
-💪 Strong background in <b>microservices, real-time data streaming, and cloud deployment</b> <br>
-👩🏻‍💻 Passionate about <b>secure, reliable, and production-ready blockchain solutions</b> <br>
-🤝 Open to collaborations on <b>innovative Web3 & backend projects</b> <br><br>
+💼 Experienced <b>Software Engineer</b> with 3+ years in <b>Blockchain & Backend Development</b>. <br>
+🎯 Skilled in building <b>DApps, Smart Contracts, NFT/DeFi Projects, and Scalable APIs</b>. <br>
+💪 Strong background in <b>microservices, real-time data streaming, and cloud deployment</b>. <br>
+👩🏻‍💻 Passionate about <b>secure, reliable, and production-ready blockchain solutions</b>. <br>
+🤝 Open to collaborations on <b>innovative Web3 & backend projects</b>. <br><br>
 📫 **Email:** wajahatsudozai1309@gmail.com  
 
 ### 💻 Tech Stack
